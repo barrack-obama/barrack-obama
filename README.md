@@ -10,4 +10,3 @@
 - 📫 How to reach me: **simom_. on discord**
 
 - ⚡ What I like to do: **play og fortnite**
-- 
