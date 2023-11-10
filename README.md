@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon G.</h1>
 <h3 align="center">A passionate fullstack developer from Denmark</h3>
 
-- 🔭 I’m currently working on my **osu! backend server, ragnarok.**
+- 🔭 I’m currently working on my **on my pinned projects.**
 
 - 🌱 I’m currently learning **nothing**
 
